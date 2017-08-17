@@ -70,7 +70,7 @@ body {
 /* Main */
 
 .main {
-    background: url('https://s3.amazonaws.com/codecademy-content/projects/2/madison-square-market/s1.jpg') no-repeat center center;
+    background: url('./../img/s1.jpg') no-repeat center center;
     background-size: cover;
     height: 400px;
     width: 100%;
